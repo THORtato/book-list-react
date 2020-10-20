@@ -24,5 +24,12 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+#### Using:
+
+- ``lodash``
+- ``react``
+- ``redux``
+
 #### Author
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ [Andrew Wijaya](https://github.com/andrewdudu) :･ﾟ(ﾉ◕ヮ◕)ﾉ* ✧
